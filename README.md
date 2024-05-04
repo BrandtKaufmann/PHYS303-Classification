@@ -25,8 +25,8 @@ You can:
 1. Use a custom architecture of your own deign, either a CNN or a ResNet (or MLP)
 2. Use TensorFlow or PyTorch
 3. Use an “off-the-shelf” architecture (e.g., ResNet18)
-  a. You can either use a pre-trained model, or
-  b. Train “from scratch”
+\n  a. You can either use a pre-trained model, or
+\n  b. Train “from scratch”
 4. You may train as many models as you would like. But you may only do one of the following:
   a. Submit one model, your best model, or
   b. If you want to use multiple models, specify your “voting” scheme
